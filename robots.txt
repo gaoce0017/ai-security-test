@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gaoce0017.github.io/ai-security-test/sitemap.xml
